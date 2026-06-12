@@ -65,3 +65,5 @@ print(y)  # 10
 smaple = (1, 2, 3, 2, 4, 2)
 print(smaple.count(2))
 print(smaple.index(3))
+
+# 마음의 다짐을 함
